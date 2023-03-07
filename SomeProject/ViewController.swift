@@ -17,7 +17,4 @@ class ViewController: UIViewController {
 
 }
 
-// first commit
-
-// second commit
 
