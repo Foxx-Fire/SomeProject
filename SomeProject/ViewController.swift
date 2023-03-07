@@ -11,10 +11,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        changeBGcolor()
-
- parent of 0b75bc9 (func color)
         // Do any additional setup after loading the view.
     }
 
@@ -25,5 +21,3 @@ class ViewController: UIViewController {
 
 // second commit
 
-
-// feature
